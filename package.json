@@ -1,5 +1,5 @@
 {
-  "name": "PROJECT-SLUG",
+  "name": "waproject-base-web",
   "description": "Front Base for React Admin",
   "version": "0.0.1",
   "private": true,

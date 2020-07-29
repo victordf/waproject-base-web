@@ -1,4 +1,4 @@
-Projeto Base React
+waproject-base-web
 ==================
 
 Utilize o VSCode, já está configurado com sugestão de extensões.
